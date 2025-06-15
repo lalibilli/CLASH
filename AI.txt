@@ -42,4 +42,3 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
 DOMAIN-KEYWORD-oaiusercontent.com
-DOMAIN,community.openai.com
