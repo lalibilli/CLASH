@@ -41,3 +41,5 @@ DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
+DOMAIN-files.oaiusercontent.com
+DOMAIN-community.openai.com
